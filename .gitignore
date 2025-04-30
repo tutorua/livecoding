@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.pytest_cache
+.idea
+*.iml
+.env
+.venv
+.vscode
+report
+results
+allure-results
+__pycache__
